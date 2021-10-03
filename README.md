@@ -1,4 +1,4 @@
-# Mapping_Earthquakes
+# Mapping Earthquakes with MapBox and Leaflet in Javascript
 
 The purpose of this project was to use Leaflet dependency to map out recent earthquakes using Mapbox's API. 
 
